@@ -1,0 +1,5 @@
+﻿INSERT INTO BloodUnits VALUES ('BU-006','A-','2026-05-25','2026-07-25','D-001','Available',2)
+INSERT INTO BloodUnits VALUES ('BU-007','B-','2026-05-26','2026-07-26','D-002','Reserved',1)
+INSERT INTO BloodUnits VALUES ('BU-008','AB-','2026-05-27','2026-07-27',NULL,'Used',1)
+INSERT INTO BloodUnits VALUES ('BU-009','O+','2026-04-01','2026-06-01',NULL,'Expired',1)
+INSERT INTO BloodUnits VALUES ('BU-010','A+','2026-05-28','2026-07-28','D-003','Available',3)
